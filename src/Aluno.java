@@ -11,9 +11,9 @@ public class Aluno {
         //this.ra é a variavel glocal, criada no inicio da classe
         //ra_p é a váriavel do parametro do método - sempre do mesmo tipo
     }
-
+//teste
     public Aluno(){
-        
+
     }
 
     public void setRa(int ra_p){
